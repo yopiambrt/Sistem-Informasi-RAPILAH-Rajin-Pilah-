@@ -1,0 +1,10 @@
+{
+
+    "name": "Govio API",
+    "version": "0.1.0",
+    "description": "Dokumentasi API",
+    "apidoc": {
+      "title": "isi sesuai kebutuhan",
+      "url" : "http://127.0.0.1:8000/api/"
+    }
+}

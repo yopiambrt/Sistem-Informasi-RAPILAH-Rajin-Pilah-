@@ -1,0 +1,12 @@
+"list_jenis" : [
+    {
+        "trash_types_id" : 1,
+        "jenis_sampah" : "Plastik,
+        "harga" : 200
+    },
+    {
+        "trash_types_id" : 4,
+        "jenis_sampah" : "Kaca,
+        "harga" : 300
+    },
+]
